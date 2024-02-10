@@ -13,6 +13,13 @@
 
 [vid7](vid7.mp4)
 
+[konik](konik.mp4)
+
+[jezero](jezero.mp4)
+
+[vlny2](vlny2.mp4)
+
+
 ## SAMPLES
 [samples](samples.json)
 + !reslist "https://iloveskramz.github.io/encoded_landscape/samples.json"
