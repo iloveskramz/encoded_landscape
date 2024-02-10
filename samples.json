@@ -1,5 +1,5 @@
 [
-  { "url":"sounds/drone-pad.wav","type":"audio","bank":"sounds","n":0}
-  { "url":"sounds/sphere-drone.wav","type":"audio","bank":"sounds","n":1}
+  { "url":"sounds/drone-pad.wav","type":"audio","bank":"sounds","n":0},
+  { "url":"sounds/sphere-drone.wav","type":"audio","bank":"sounds","n":1},
   { "url":"sounds/buzz-drone.wav","type":"audio","bank":"sounds","n":2}
 ]
