@@ -21,7 +21,7 @@
 
 [konik](konik.mp4)
 
-[sksksk](sksksksk.mp4)
+[sksksk](sksksksksk.mp4)
 
 [tatry](tatry.mp4)
 
