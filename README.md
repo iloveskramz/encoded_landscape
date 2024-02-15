@@ -19,6 +19,11 @@
 
 [vlny2](vlny2.mp4)
 
+[konik](konik.mp4)
+
+[sksksk](sksksksk.mp4)
+
+[tatry](tatry.mp4)
 [hortobagyi](hortobagyi.mp4)
 
 ## SAMPLES
