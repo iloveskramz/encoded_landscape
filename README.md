@@ -27,6 +27,8 @@
 
 [hortobagyi](hortobagyi.mp4)
 
+[mapa](mapa.png)
+
 ## SAMPLES
 [samples](samples.json)
 + !reslist "https://iloveskramz.github.io/encoded_landscape/samples.json"
