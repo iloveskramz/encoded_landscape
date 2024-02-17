@@ -29,6 +29,7 @@
 
 [mapa](mapa.png)
 
+[slovinsko](slovinsko.mp4)
 ## SAMPLES
 [samples](samples.json)
 + !reslist "https://iloveskramz.github.io/encoded_landscape/samples.json"
