@@ -34,6 +34,8 @@
 [slovinsko](slovinsko.mp4)
 
 [sogn](IMG_6872.MOV)
+
+[atromy](stromy.mp4)
 ## SAMPLES
 [samples](samples.json)
 + !reslist "https://iloveskramz.github.io/encoded_landscape/samples.json"
