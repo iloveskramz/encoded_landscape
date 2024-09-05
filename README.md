@@ -35,6 +35,10 @@
 
 [sogn](IMG_6872.MOV)
 
+
+[norsko1](norway1.mp4)
+
+[norsko2](norway2.mp4)
 [atromy](stromy.mp4)
 ## SAMPLES
 [samples](samples.json)
